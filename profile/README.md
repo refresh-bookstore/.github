@@ -44,3 +44,7 @@
 [![TSOA](https://img.shields.io/badge/TSOA-10B981?style=for-the-badge&logo=typescript&logoColor=white)](https://tsoa-community.github.io/docs/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+<hr>
+
+![ezgif-5-985c54e5cd](https://github.com/refresh-bookstore/refresh-bookstore/assets/51044545/0c23ba4e-ffc3-4fe3-b49f-08fb9f7ce65e)
