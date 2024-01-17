@@ -47,4 +47,4 @@
 
 <hr>
 
-![ezgif-5-985c54e5cd](https://github.com/refresh-bookstore/refresh-bookstore/assets/51044545/0c23ba4e-ffc3-4fe3-b49f-08fb9f7ce65e)
+![animate-ezgif com-optimize](https://github.com/refresh-bookstore/.github/assets/51044545/1950b3f8-3196-46ed-a432-7c7a675d7515)
